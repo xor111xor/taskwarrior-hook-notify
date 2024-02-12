@@ -18,7 +18,7 @@ def extract_tags_from(json_obj):
 
 
 def main(old, new):
-    # Configuration
+    # Configuration.
     command = '/.config/task/task-notify.sh'
     time_interval = '30m'
 
